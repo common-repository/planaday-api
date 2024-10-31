@@ -1,0 +1,327 @@
+
+#pad-errors {
+    border: 2px solid #ff0000;
+    padding: 4px;
+}
+
+#pad-ok {
+    position: fixed;
+    top: 188px;
+    border: 2px solid #3b691d;
+    color: #3b691d;
+    font-weight: 800;
+    font-size: 22px;
+    padding: 4px;
+    display: block;
+    background-color: #e7e7e7;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#pad-ok p {
+    color: #3b3b3b;
+    font-size: 14px;
+}
+
+.formerror {
+    border: 1px solid #ff0000 !important;
+}
+
+.formerrorlabel {
+    color: #ff0000 !important;
+}
+
+.fc-day-grid-event > .fc-content {
+    white-space: normal;
+}
+
+.fc-scroller > .fc-day-grid {
+/ / verberg scrollbar zoveel mogelijk overflow: auto;
+    overflow-y: hidden;
+}
+
+.tooltiptopicevent {
+/ / background mouseover bij calendar width: auto;
+    height: auto;
+    background: #ccc;
+    position: absolute;
+    z-index: 10001;
+    padding: 3px;
+    line-height: 135%;
+    border: 1px solid #3a87ad;
+    border-radius: 3px;
+    margin-right: -100px;
+}
+
+.fc-day-header, .fc-day-header > span {
+    font-family: "lato", "proxima-nov", "Helvetica Neue", sans-serif !important;
+    size: 12px !important;
+}
+
+.fc-button, .fc-button > a:link, .fc-button > a:visited, .fc-button > a:hover {
+    color: #000000 !important
+}
+
+.hide {
+    display: none;
+}
+
+#cursustitel {
+    clear: both;
+}
+
+#pad-detail-costs-remarks, #pad-detail-costs-remarks2 {
+    clear: both;
+}
+
+.extraPersonTemplate {
+    display: none;
+}
+
+.titelrij {
+    width: 300px !important;
+}
+
+#pad-formerrors {
+    margin-left: 25px;
+}
+
+#addRow, #pad-verplicht {
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.CodeMirror {
+    height: 540px !important;
+}
+
+/* Standaard */
+
+#padbooking > * {
+    margin-top: 20px;
+}
+
+input.padform {
+    width: 225px !important;
+    min-height: 25px;
+    border: 0;
+    margin-top: 5px;
+    border-radius: 4px;
+    height: 30px !important;
+}
+
+.pad-name-block {
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+}
+
+.pad-name-block div {
+    width: 45%;
+}
+
+.pad-address-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pad-address-info div {
+    width: 30%;
+}
+
+@media (max-width: 736px) {
+    .pad-name-block, .pad-address-info, .pad-street-block {
+        flex-direction: column;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .pad-name-block div, .pad-address-info div {
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        display: flex;
+    }
+
+    .pad-street-block {
+        text-align: center;
+    }
+
+    input {
+        margin: 5px 0;
+        min-height: 30px;
+    }
+}
+
+
+input[type="checkbox"], input[type="radio"] {
+    width: 14px !important;
+}
+
+.pad-detail-amount, .pad-detail-costs, .pad-detail-available, .pad-detail-garanteed, .pad-detail-moneygaranteed, .pad-detail-courseelearning, .pad-detail-labels, .pad-detail-soob, .pad-detail-code95, .pad-detail-niveau {
+    font-size: 12px !important;
+    float: left !important;
+    padding: 4px !important;
+}
+
+.pad-detail-label {
+    display: inline-block;
+}
+
+input#company_house_number_extension, input.house_number_extension {
+    width: 120px !important;
+    margin-left: 9px;
+}
+
+#company_house_number, input.house_number, input.initials, input.prefix {
+    width: 120px !important;
+}
+
+#company_choice label {
+    height: 20px;
+}
+
+.pad-api-attribute-fieldset label {
+    height: 20px;
+}
+
+.pad-api-attribute-fieldset {
+    margin-bottom: 15px;
+}
+
+.pad-api-attribute-title, #company_details h4, form h4 {
+}
+
+select.pad-geslacht {
+    display: block;
+    height: 39px;
+    margin-top: 6px;
+}
+
+.pad-api-attribute-fieldset label input {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+#pad-email-cursist label, #pad-telefoon-cursist label, #pad-geboortedatum label {
+    display: block !important;
+}
+
+/* Voor overzichten: */
+
+.pad-course {
+    display: block;
+    background-color: #f3f3f3;
+    padding: 10px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, .09);
+    margin-bottom: 14px;
+    overflow: auto;
+}
+
+.pad-course2 {
+    display: block;
+    border-style: solid;
+    border-width: thin;
+    border-color: #dc6117;
+    background-color: #f3f3f3;
+    padding: 0px;
+    margin-bottom: 14px;
+    overflow: auto;
+}
+
+.pad-title, .pad-title > a:link, .pad-title > a:hover, .pad-title > a:visited, .pad-title > a:active {
+    font-size: 24px !important;
+    font-weight: 700;
+    color: #000000 !important;
+    line-height: 20px !important;
+}
+
+.pad-date {
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.pad-date2 {
+    display: contents;
+}
+
+/* Geef diversen onderdelen een kleur */
+.pad-place, .pad-costs, .pad-dayparts, .pad-available, .pad-moneygaranteed, .pad-courseelearning, .pad-soob, .pad-code95, .pad-labels  {
+    font-size: 12px;
+    float: left;
+    padding: 2px;
+}
+
+.pad-description {
+    margin-left: 10px;
+}
+
+.pad-place2, .pad-costs2, .pad-dayparts2, .pad-available2, .pad-moneygaranteed2, .pad-courseelearning2, .pad-soob2, .pad-code952, .pad-labels2, .pad-date2 {
+    font-size: 12px;
+    float: left;
+    padding: 2px;
+    clear: both;
+    line-height: 18px;
+}
+
+.pad-details-block {
+    margin-left: 10px;
+}
+
+.padday-labels {
+    font-family: inherit;
+    font-size: 10px;
+    float: left;
+    padding: 2px;
+    text-transform: lowercase;
+}
+
+.btn-link {
+    background-color: #dc7d29 !important;
+    border: 1px solid #c5c5c5 !important;
+    float: right;
+}
+
+table.pad-courselist {
+    border: 1px solid #1C6EA4;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+table.pad-courselist td, table.pad-courselist th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+}
+
+table.pad-courselist tbody td {
+    font-size: 13px;
+}
+
+table.pad-courselist tr:nth-child(even) {
+    background: #D0E4F5;
+}
+
+table.pad-courselist thead {
+    background: #F2B220;
+    border-bottom: 2px solid #444444;
+}
+
+table.pad-courselist thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+}
+
+table.pad-courselist thead th:first-child {
+    border-left: none;
+}
+
+#container > .extraPerson:first-child .removeRow {
+    display: none
+}
+/* Standaard */

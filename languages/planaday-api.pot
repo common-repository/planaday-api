@@ -1,0 +1,718 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Planaday API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-18 16:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: planaday-api"
+
+#: src/api/classes/shortcodes.php:783
+msgid "Aanmelding cursus via onze website: "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:36
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:287
+msgid "Aantal dagdelen"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1114
+msgid "Aanvullende vragen"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:230
+msgid "Adres is verplicht bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:596
+msgid "Bedrijf/organisatie of particulier?"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:607
+msgid "Bedrijfsgegevens"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:612
+msgid "Bedrijfsnaam"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:32
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:283
+msgid "Begint op"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:48
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:302
+msgid "Bekijk"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:106
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:239
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:238
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:268
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:362
+msgid "Bekijk details van deze cursus"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:177
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:188
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:207
+msgid "beschikbaar"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:89
+msgid "Beschikbare plaatsen"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:115
+msgid "Bestaat uit"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:199
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:210
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:229
+#: src/api/classes/shortcodes/shortcodes_course.php:152
+msgid "Code95"
+msgstr ""
+
+#: src/api/classes/shortcodes.php:511
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:31
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:282
+msgid "Cursus"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:151
+msgid "cursus bevat code95"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:107
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:168
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:106
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:179
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:119
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:198
+#: src/api/classes/shortcodes/shortcodes_course.php:122
+#: src/api/classes/shortcodes/shortcodes_course.php:179
+msgid "cursus bevat elarning"
+msgstr ""
+
+#: src/api/classes/shortcodes.php:757
+msgid "Cursus boeking"
+msgstr ""
+
+#: src/includes/widget.php:21
+msgid "Cursus details"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:198
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:209
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:228
+msgid "cursus heeft code95"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:226
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:225
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:257
+#: src/api/classes/shortcodes/shortcodes_course.php:158
+msgid "cursus heeft deze labels"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:206
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:217
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:236
+msgid "cursus heeft SOOB subsidie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:144
+msgid "cursus heeft soob subsidie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:64
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:79
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:95
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:90
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:107
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:338
+#: src/api/classes/shortcodes/shortcodes_course.php:83
+msgid "Cursus is vol"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:64
+msgid "Cursus is vol, daarom is aanmelden niet meer mogelijk!"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:249
+msgid "Cursus niet gevonden"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:161
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:172
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:190
+msgid "cursus start in deze plaats"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:155
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:166
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:184
+msgid "dagdelen"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:447
+msgid ""
+"De boeking kan helaas niet worden doorgevoerd, corrigeer de volgende velden:"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:759
+msgid "Deelnemer"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:86
+msgid "Details"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:154
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:165
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:183
+msgid "Deze cursus betaat uit"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:46
+msgid "Deze cursus kan niet worden getoond. Neem contact op met de opleider"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1070
+msgid ""
+"Deze cursus wordt gegeven voor de STAP regeling. Je wordt hier automatisch "
+"voor aangemeld"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1075
+msgid ""
+"Deze cursus wordt ook gegeven met de STAP regeling. Wil je je hiervoor "
+"aanmelden?"
+msgstr ""
+
+#: src/api/classes/shortcodes.php:541
+msgid "Duur"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:108
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:169
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:107
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:180
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:120
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:199
+#: src/api/classes/shortcodes/shortcodes_course.php:123
+#: src/api/classes/shortcodes/shortcodes_course.php:179
+msgid "e-learning"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:164
+msgid "Email is niet juist, vul een juist emailadres in bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:874
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:879
+msgid "Emailadres"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:643
+msgid "Emailadres (bedrijf)"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:653
+msgid "Emailadres facturatie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:128
+msgid "Emailadres voor facturatie bij bedrijf is verplicht"
+msgstr ""
+
+#: src/includes/database.php:451
+msgid "Er is gezocht in cursusaanbod met de volgende labels"
+msgstr ""
+
+#: src/includes/database.php:435
+msgid ""
+"Er is gezocht in cursusaanbod waarin aangekozen locatie tenminste in één van "
+"de dagdelen zit"
+msgstr ""
+
+#: src/includes/database.php:400
+msgid "Er is gezocht in cursusaanbod waarin ook code95 zit"
+msgstr ""
+
+#: src/includes/database.php:422
+msgid "Er is gezocht in cursusaanbod waarin ook elearning zit"
+msgstr ""
+
+#: src/includes/database.php:411
+msgid "Er is gezocht in cursusaanbod waarin ook soob zit"
+msgstr ""
+
+#: src/includes/database.php:463
+msgid "Er is gezocht in titels van cursussen op zoekterm"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:219
+msgid "Er moet een keuze gemaakt worden "
+msgstr ""
+
+#: src/includes/database.php:466
+msgid "Er was geen tekst opgegeven om specifiek op te zoeken"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:725
+msgid "Extra vragen"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:668
+msgid "Factuuradres"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:446
+msgid "Fouten gevonden"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:959
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:970
+msgid "Functie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:200
+msgid "Functie opgeven is verplicht bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:913
+msgid "Geboortedatum"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:186
+msgid "Geboortedatum is verplicht bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:936
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:948
+msgid "Geboorteplaats"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:193
+msgid "Geboorteplaats is verplicht bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:156
+msgid "Geen achternaam opgegeven bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:98
+msgid "Geen adres bij bedrijf opgegeven"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:94
+msgid "Geen bedrijfsnaam opgegeven"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:231
+msgid "Geen cursus geselecteerd."
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:88
+msgid "Geen cursusid opgegeven"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:160
+msgid "Geen email opgegeven bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:110
+msgid "Geen emailadres bij bedrijf opgegeven"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:102
+msgid "Geen huisnummer bij bedrijf opgegeven"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:114
+msgid "Geen plaats bij bedrijf opgegeven"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:106
+msgid "Geen postcode bij bedrijf opgegeven"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:57
+msgid "Geen valide resultaat uit Planaday. Een cursus boeken niet mogelijk!"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:152
+msgid "Geen voornaam opgegeven bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:81
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:191
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:202
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:221
+#: src/api/classes/shortcodes/shortcodes_course.php:137
+msgid "Geld terug garantie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:761
+msgid "Geslacht, initialen, voor- en achternaam"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:58
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:89
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:84
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:101
+msgid "heeft startgarantie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1191
+msgid "Het is niet mogelijk om meerdere deelnemers toe te voegen"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1206
+msgid "hier"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://planaday.freshdesk.com/support/solutions/articles/11000058859-"
+"wordpress-in-website-met-publieke-api"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.planaday.nl"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:834
+msgid "Huisnr"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:844
+msgid "Huisnr ext"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:236
+msgid "Huisnummer is verplicht bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1205
+msgid "Ik ga akkoord met de algemene voorwaarden"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:74
+msgid "in het verleden"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1024
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1030
+msgid "Interne referentie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:599
+msgid "Ja, graag inschrijven als bedrijf/organisatie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1060
+msgid "Ja, is ook contactpersoon voor dit bedrijf"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:179
+msgid "Kostenplaats is verplicht bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1207
+msgid "kun je ze lezen"
+msgstr ""
+
+#: src/api/classes/shortcodes.php:519
+msgid "Labels"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:73
+msgid "Let op: Deze cursus bevat"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:999
+msgid "Let op: deze kostenplaats moet bekend zijn bij de opleider."
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:548
+msgid "Let op: dit is een testbetaling"
+msgstr ""
+
+#: src/api/classes/shortcodes.php:549
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:40
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:292
+msgid "Locatie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:813
+msgid "Meisjesnaam"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:69
+msgid "Met"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:601
+msgid "Nee, ik ben particulier"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:80
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:190
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:201
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:220
+#: src/api/classes/shortcodes/shortcodes_course.php:136
+msgid "niet goed, geld terug garantie!"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:96
+msgid "Niveau"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:84
+msgid "Om te boeken moet je akkoord gaan met de algemene voowaarden"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1041
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1046
+msgid "Opmerking"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:74
+msgid "p.p."
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:104
+msgid "per persoon"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1007
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1013
+msgid "Personeelsnummer"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:756
+msgid "Persoonsgegevens"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:866
+msgid "Plaats"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:175
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:186
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:205
+msgid "plaatsen beschikbaar"
+msgstr ""
+
+#: src/api/classes/shortcodes.php:526
+msgid "Plaatsen vrij"
+msgstr ""
+
+#. Name of the plugin
+msgid "Planaday API"
+msgstr ""
+
+#: src/includes/widget.php:10 src/api/classes/widget/widget_cursusdetails.php:9
+msgid "Planaday cursusdetails"
+msgstr ""
+
+#. Author of the plugin
+msgid "Planaday development"
+msgstr ""
+
+#: src/includes/widget.php:159 src/api/classes/widget/widget_search.php:8
+msgid "Planaday zoeken"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:858
+msgid "Postcode"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:633
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:686
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:852
+msgid "Postcode & plaats"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:242
+msgid "Postcode is verplicht bij cursist "
+msgstr ""
+
+#: src/api/classes/shortcodes.php:533
+#: src/api/classes/shortcodes/shortcodes_courselisttable.php:44
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:297
+msgid "Prijs"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:182
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:193
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:212
+msgid "prijs per persoon"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:55
+msgid "Probeer nog het anders nog eens"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:789
+msgid "Roepnaam"
+msgstr ""
+
+#: src/api/classes/settings/settings_general.php:423
+#: src/api/classes/settings/settings_general.php:512
+msgid "Selecteer een pagina (geen)"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:145
+msgid "SOOB Subsidie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:207
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:218
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:237
+msgid "SOOB subsidie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_course.php:129
+msgid "Start garantie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:53
+msgid "start op"
+msgstr ""
+
+#: src/api/classes/shortcodes.php:556
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:78
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:95
+msgid "Startdatum"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:59
+#: src/api/classes/shortcodes/shortcodes_courselistblock2.php:90
+#: src/api/classes/shortcodes/shortcodes_courselistblock.php:85
+#: src/api/classes/shortcodes/shortcodes_coursesearch.php:102
+msgid "Startgarantie"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:827
+msgid "Straat"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:620
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:669
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:823
+msgid "Straat & huisnummer"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:704
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:891
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:902
+msgid "Telefoonnummer"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:121
+msgid "Telefoonnummer bij bedrijf is verplicht"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:172
+msgid "Telefoonnummer is verplicht bij cursist "
+msgstr ""
+
+#: src/includes/widget.php:66
+#: src/api/classes/widget/widget_cursusdetails.php:84
+msgid "Toon aantal dagdelen"
+msgstr ""
+
+#: src/includes/widget.php:48
+#: src/api/classes/widget/widget_cursusdetails.php:59
+msgid "Toon beschikbare plaatsen"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Toon de cursussen van Planaday in een wordpress website. Dit kan middels een "
+"lijst, op cursussoort, label of alle cursussen en in verschillende formats "
+"met eigen opmaak"
+msgstr ""
+
+#: src/includes/widget.php:36
+msgid "Toon label cursus"
+msgstr ""
+
+#: src/api/classes/widget/widget_cursusdetails.php:50
+msgid "Toon labels cursus"
+msgstr ""
+
+#: src/includes/widget.php:60
+#: src/api/classes/widget/widget_cursusdetails.php:76
+msgid "Toon locatie"
+msgstr ""
+
+#: src/includes/widget.php:184 src/api/classes/widget/widget_search.php:39
+msgid "Toon locatie select"
+msgstr ""
+
+#: src/includes/widget.php:54
+#: src/api/classes/widget/widget_cursusdetails.php:68
+msgid "Toon prijs"
+msgstr ""
+
+#: src/includes/widget.php:72
+#: src/api/classes/widget/widget_cursusdetails.php:93
+msgid "Toon startdatum"
+msgstr ""
+
+#: src/includes/widget.php:42
+#: src/api/classes/widget/widget_cursusdetails.php:39
+msgid "Toon titel cursus"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:212
+msgid "Veld mag niet leeg zijn "
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1102
+msgid ""
+"Velden met * zijn verplicht voor het op de juiste manier verwerken van jouw "
+"aanvraag"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:731
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1120
+msgid "verplicht veld/keuze"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1210
+msgid "Verstuur aanvraag"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:1188
+msgid "Voeg een deelnemer toe"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_courselistlist.php:74
+msgid "Voor"
+msgstr ""
+
+#: src/includes/widget.php:29 src/includes/widget.php:177
+#: src/api/classes/widget/widget_search.php:27
+#: src/api/classes/widget/widget_cursusdetails.php:28
+msgid "Widget Title"
+msgstr ""
+
+#: src/api/classes/shortcodes/shortcodes_bookingform.php:248
+msgid "Woonplaats is verplicht bij cursist "
+msgstr ""
